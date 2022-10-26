@@ -1,4 +1,5 @@
-### Namaste,Aakash here 
+## Namaste Aakash here ,
+I'm currently diving into web 3.0 space. 
 
 <!--
 **aakashditya/aakashditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
