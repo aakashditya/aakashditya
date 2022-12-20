@@ -1,4 +1,4 @@
-## Namaste Aakash here ,
+## Hello Aakash here ,
 I'm currently diving into web 3.0 space. 
 
 <!--
