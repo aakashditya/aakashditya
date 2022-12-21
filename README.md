@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 
 
 [![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakashditya)](https://github.com/aakashditya/github-readme-stats)
+
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aakashditya&langs_count=5&theme=tokyonight)]()
