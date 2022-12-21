@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 
 - - 📫 You can reach me at  : https://twitter.com/DityaAakash to explore my thoughts, mindset and to connect.
 - 👯 I'm ready to collab , especially if we are on the same boat.
+
+
+[![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakashditya)](https://github.com/aakashditya/github-readme-stats)
