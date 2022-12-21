@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Javascript and Solidity for Ethereum . Later gonna develop projects
+
+- - 📫 You can reach me at  : https://twitter.com/DityaAakash to explore my thoughts, mindset and to connect.
+- 👯 I'm ready to collab , especially if we are on the same boat.
